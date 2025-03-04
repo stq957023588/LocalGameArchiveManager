@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>game_archive.sql</file>
+        <file>game.sql</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+#ifndef CDCA7005_14B5_4BAF_B2DD_CD2E17DDF51B
+#define CDCA7005_14B5_4BAF_B2DD_CD2E17DDF51B
+
+void initDatabase();
+
+void initData();
+
+void init();
+
+#endif /* CDCA7005_14B5_4BAF_B2DD_CD2E17DDF51B */
